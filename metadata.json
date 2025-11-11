@@ -1,0 +1,5 @@
+{
+  "name": "Password Audit & Remediation Platform",
+  "description": "An educational, legal, and secure password-audit platform that analyzes password strength for consenting or synthetic accounts, checks for breaches using privacy-preserving methods, produces audit reports, and suggests remediation.",
+  "requestFramePermissions": []
+}
